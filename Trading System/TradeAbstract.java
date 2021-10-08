@@ -70,4 +70,7 @@ public class TradeAbstract {
                 ", price=" + price +
                 '}';
     }
+       public void calcDividend(float  dividend){
+        
+    }
 }
