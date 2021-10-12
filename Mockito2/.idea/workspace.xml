@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f30718d7-c5e0-44fc-b340-e6033bd9c4b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayList/ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankOfMontreal/BankOfMontreal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientSystem/ClientSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/Collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunactionJ/FunctionJ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FuncJ2/FuncJ2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FuncJavaQ/FuncJavaQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Bag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/BagOfLectures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/BagOfStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/HasLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Levels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Nameable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Register.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/StudentComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/StudentNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/BagOfLectures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/BagOfStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/HasLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/Levels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/StudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterating/Iterating.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterating2/Iterating2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaConcurrency/JavaConcurrency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoTrial/src/main/java/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoTrial/src/main/java/MathApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoTrial/src/main/java/MathApplicationTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoTrial/src/main/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Streaming/Streaming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trade System/Trade System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trade-System/Trade-System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trade-System/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trading/Trading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptions/exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberName/numberName.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randNumb/randNumb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randNumber2/randNumber2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomNumber/randomNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sixInt/sixInt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sixNumber1/sixNumber1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sixNumbers/sixNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timesTable/timesTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tlc3/tlc3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Lecture.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Lecture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/NaughtyStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/NaughtyStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/TestCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/out/production/GradeSystem/com/company/TestCases.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/src/com/company/Lecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/Lecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/src/com/company/NaughtyStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/NaughtyStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/src/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradeSystem/src/com/company/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GradeSystem/src/com/company/TestCases.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zPIN4y6MJbpklt3s15rMlLltNI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Mockito2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner.sumTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestRunner.sumTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestRunner.sumTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f30718d7-c5e0-44fc-b340-e6033bd9c4b1" name="Changes" comment="" />
+      <created>1634043255776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634043255776</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
